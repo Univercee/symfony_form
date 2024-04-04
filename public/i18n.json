@@ -1,0 +1,17 @@
+{
+    "ru": {
+        "firstname": "Имя",
+        "lastname": "Фамилия",
+        "description": "Описание"
+    },
+    "en": {
+        "firstname": "Firstname",
+        "lastname": "Lastname",
+        "description": "Description"
+    },
+    "ru2": {
+        "firstname": "Как звать",
+        "lastname": "Чей будешь",
+        "description": "Расскажи еще чего-то"
+    }
+}
